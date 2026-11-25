@@ -13,7 +13,7 @@ Funziona **solo con i tuoi dati**: legge i transcript che Claude Code salva sul 
 ## Avvio rapido
 
 ```powershell
-git clone https://github.com/<utente>/jarvis-analytics.git
+git clone https://github.com/dabbiee/jarvis-analytics.git
 cd jarvis-analytics
 python analizza_token.py --open
 ```
