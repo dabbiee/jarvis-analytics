@@ -1,0 +1,14 @@
+{
+  "_nota": "Copia questo file come config.json e modificalo. Tutte le voci sono facoltative.",
+  "progetti": {
+    "MioProgettoLungo": "Nome breve",
+    "Clienti\Rossi": "Cliente Rossi"
+  },
+  "cartelle_radice": ["Progetti", "Documents"],
+  "nomi_mcp": {
+    "0123abcd": "Gmail",
+    "89abcdef": "Google Drive"
+  },
+  "data_confronto": "2026-01-31T12:00",
+  "descrizione_confronto": "Nuove regole in CLAUDE.md"
+}

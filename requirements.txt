@@ -1,0 +1,2 @@
+# Serve solo per crea_versione_protetta.py (versione cifrata da condividere)
+cryptography

@@ -1,0 +1,14 @@
+# Dati personali generati sul tuo PC: non vanno mai pubblicati
+dashboard_token.html
+dashboard_telefono.html
+condivisioni/
+config.json
+accesso.json
+dispositivi.json
+indirizzo_telefono.txt
+errore_avvio.log
+.profilo_app/
+__pycache__/
+*.pyc
+*.log
+*.jsonl
